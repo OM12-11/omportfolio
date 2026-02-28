@@ -4,7 +4,7 @@ This repository contains my personal portfolio built using Next.js.
 It showcases my projects, technical skills, and research interests in Artificial Intelligence and Machine Learning.
 
 ## 🌐 Live Demo
-( Add your deployed link here )
+https://om-prasad-bartia.vercel.app/
 
 ## 🛠 Tech Stack
 
