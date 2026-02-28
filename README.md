@@ -12,8 +12,8 @@ It showcases my projects, technical skills, and research interests in Artificial
 - TypeScript
 - Tailwind CSS
 - React
-- Framer Motion (for animations)
-- Three.js / React Three Fiber (if used)
+- Framer Motion 
+- Three.js / React Three Fiber 
 
 
 ## ✨ Features
